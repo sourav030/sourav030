@@ -1,16 +1,58 @@
 ## Hi there 👋
 
-<!--
-**sourav030/sourav030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sourav Kumar Tiwari
 
-Here are some ideas to get you started:
+🎯 A passionate **Full Stack Developer** skilled in building web applications using the **MERN stack** and **Machine Learning** Model.  
+💻 I love problem-solving, have solved **800+ DSA problems** on LeetCode and GFG, and continuously work on real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- 💻 **Languages**: C++, JavaScript
+- 🌐 **Frontend**: React.js, HTML, CSS, TailwindCSS
+- 🛠️ **Backend**: Node.js, Express.js
+- 🔗 **API**: RESTful APIs
+- 🧠 **Others**: Machine Learning (Scikit-learn, Pandas, etc.)
+
+---
+
+## 📂 Featured Projects
+
+### 🔗 [HireHub – Job Portal](https://github.com/sourav030/Hire-Hub)
+> MERN-based job portal with login/signup, job applications, recruiter dashboard, nodemailer integration, and role-based access.
+
+### 🛒 [E-commerce Platform](https://github.com/sourav030/Ecommerce)
+> Full-featured e-commerce site with user/admin login, product management, order tracking, and Stripe-based payments.
+
+### 🧪 [Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction)
+> A machine learning-based app that predicts diabetes using medical data inputs with clean UI and trained models.
+
+---
+
+## 🎓 Certifications & Achievements
+
+- 🧩 **800+ DSA Questions** solved on LeetCode & GFG  
+- 📜 **Backend Development Certificate** - PhysicsWallah  
+- 🤖 **Machine Learning Certification** - Internshala  
+- 📘 **DSA Completion** - GeeksforGeeks
+
+---
+
+## 📈 GitHub Stats
+
+![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav030&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav030&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
+- 📧 Email: souravtiwari139@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
