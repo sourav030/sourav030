@@ -14,7 +14,7 @@
 
 - 💻 **Languages**: C++, JavaScript  
 - 🌐 **Frontend**: React.js, HTML, CSS, TailwindCSS  
-- 🛠️ **Backend**: Node.js, Express.js  
+- 🛠️ **Backend**: Node.js, Express.js, NestJs
 - 🔗 **API**: RESTful APIs  
 - 🧠 **Others**: Machine Learning (Scikit-learn, Pandas, etc.)  
 
