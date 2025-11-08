@@ -12,8 +12,6 @@
 
 ## 🚀 Tech Stack
 
-## 🧰 Tech Stack
-
 - 💻 **Languages:** C++, JavaScript  
 - 🌐 **Frontend:** React.js, HTML, CSS, TailwindCSS  
 - 🛠️ **Backend:** Node.js, Express.js, NestJS  
