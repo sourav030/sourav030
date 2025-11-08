@@ -12,11 +12,16 @@
 
 ## 🚀 Tech Stack
 
-- 💻 **Languages**: C++, JavaScript  
-- 🌐 **Frontend**: React.js, HTML, CSS, TailwindCSS  
-- 🛠️ **Backend**: Node.js, Express.js, NestJs
-- 🔗 **API**: RESTful APIs  
-- 🧠 **Others**: Machine Learning (Scikit-learn, Pandas, etc.)  
+## 🧰 Tech Stack
+
+- 💻 **Languages:** C++, JavaScript  
+- 🌐 **Frontend:** React.js, HTML, CSS, TailwindCSS  
+- 🛠️ **Backend:** Node.js, Express.js, NestJS  
+- 🧩 **Database:** MySQL, MongoDB, PostgreSQL  
+- 🧮 **ORM / Query Builder:** Prisma  
+- 🔗 **API:** RESTful APIs  
+- 🧠 **Others:** Machine Learning (Scikit-learn, Pandas, etc.)
+ 
 
 ---
 
