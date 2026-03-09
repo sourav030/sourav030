@@ -1,62 +1,65 @@
+### 👋 Hi, I'm Sourav Kumar Tiwari
 
-## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sourav030&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-# 👋 Hi, I'm Sourav Kumar Tiwari
-
-🎯 A passionate **Full Stack Developer** skilled in building web applications using the **MERN stack** and **Machine Learning** Model.  
-💻 I love problem-solving, have solved **800+ DSA problems** on LeetCode and GFG, and continuously work on real-world projects.  
-
-![Profile Views](https://komarev.com/ghpvc/?username=sourav030&color=blue&style=flat-square)
+A passionate **Full Stack Developer** and **Machine Learning enthusiast**. I specialize in building scalable web applications using the **MERN stack** and integrating intelligent models to solve real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Technical Expertise
 
-- 💻 **Languages:** C++, JavaScript  
-- 🌐 **Frontend:** React.js, HTML, CSS, TailwindCSS  
-- 🛠️ **Backend:** Node.js, Express.js, NestJS  
-- 🧩 **Database:** MySQL, MongoDB, PostgreSQL  
-- 🧮 **ORM / Query Builder:** Prisma  
-- 🔗 **API:** RESTful APIs  
-- 🧠 **Others:** Machine Learning (Scikit-learn, Pandas, etc.)
- 
-
----
-
-## 📂 Featured Projects
-
-### 🔗 [HireHub – Job Portal](https://github.com/sourav030/Hire-Hub)
-> MERN-based job portal with login/signup, job applications, recruiter dashboard, nodemailer integration, and role-based access.  
-
-### 🛒 [E-commerce Platform](https://github.com/sourav030/Ecommerce)
-> Full-featured e-commerce site with user/admin login, product management, order tracking, and Stripe-based payments.  
-
-### 🧪 [Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction)
-> A machine learning-based app that predicts diabetes using medical data inputs with clean UI and trained models.  
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `C++` `JavaScript` `SQL` `Python` |
+| **Frontend** | `React.js` `TailwindCSS` `HTML5` `CSS3` |
+| **Backend** | `Node.js` `Express.js` `NestJS` `Prisma ORM` |
+| **Database** | `MongoDB` `PostgreSQL` `MySQL` |
+| **Data Science** | `Scikit-learn` `Pandas` `NumPy` |
 
 ---
 
-## 🎓 Certifications & Achievements
+### 🏆 Coding Milestones
 
-- 🧩 **800+ DSA Questions** solved on LeetCode & GFG  
-- 📜 **Backend Development Certificate** - PhysicsWallah  
-- 🤖 **Machine Learning Certification** - Internshala  
-- 📘 **DSA Completion** - GeeksforGeeks  
+I thrive on problem-solving and algorithmic challenges. With **1,000+ problems** solved across platforms, I focus on writing optimized, clean code.
+
+<p align="left">
+  <a href="https://leetcode.com/u/sourav_tiwari07/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=sourav_tiwari07&theme=dark" alt="Sourav's LeetCode Stats" height="180" />
+  </a>
+</p>
+
+- **LeetCode & GFG:** 1,000+ Problems Solved  
+- **GeeksforGeeks Profile:** [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
+- **Certifications:** Backend Development (PhysicsWallah), Machine Learning (Internshala)
 
 ---
 
-## 📈 GitHub Stats
+### 📂 Featured Projects
 
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav030&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav030&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourav030&theme=radical)  
+- **[HireHub – Job Portal](https://github.com/sourav030/Hire-Hub)**: MERN-based portal with role-based access and Nodemailer integration.
+- **[E-commerce Platform](https://github.com/sourav030/Ecommerce)**: Full-featured shop with Stripe payments, Redis caching, and product management.
+- **[Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction)**: ML tool predicting diabetes using medical data inputs.
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Analytics
 
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)  
-- 📧 Email: souravtiwari139@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav030&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav030&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav030&theme=radical&hide_border=true" width="100%" />
+</p>
 
+---
 
+### 📫 Connect with Me
+
+- **LinkedIn:** [Sourav Kumar Tiwari](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
+- **LeetCode:** [sourav_tiwari07](https://leetcode.com/u/sourav_tiwari07/)
+- **GeeksforGeeks:** [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
+- **Email:** souravtiwari139@gmail.com
