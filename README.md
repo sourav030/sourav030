@@ -1,28 +1,42 @@
-### 👋 Hi, I'm Sourav Kumar Tiwari
+# Hi there, I'm Sourav Kumar Tiwari 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sourav030&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sourav030&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-A passionate **Full Stack Developer** and **Machine Learning enthusiast**. I specialize in building scalable web applications using the **MERN stack** and integrating intelligent models to solve real-world problems.
+<p>
+  Full Stack Developer focused on building scalable web applications and practical ML-powered solutions.
+  <br/>
+  Currently working as <strong>Full Stack Developer Intern at Foyr</strong>.
+</p>
 
 ---
 
-### 🚀 Technical Expertise
+## 🚀 About Me
+
+- 💼 Full Stack Developer Intern at Foyr
+- 🧠 Machine Learning enthusiast who enjoys turning data into useful products
+- 🛠️ Strong focus on scalable architecture, clean APIs, and user-first interfaces
+- 🧩 Solved 1,000+ coding problems across competitive programming platforms
+
+---
+
+## 🧰 Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | `C++` `JavaScript` `SQL` `Python` |
-| **Frontend** | `React.js` `TailwindCSS` `HTML5` `CSS3` |
-| **Backend** | `Node.js` `Express.js` `NestJS` `Prisma ORM` |
-| **Database** | `MongoDB` `PostgreSQL` `MySQL` |
-| **Data Science** | `Scikit-learn` `Pandas` `NumPy` |
+| Languages | C++, JavaScript, SQL, Python |
+| Frontend | React.js, Tailwind CSS, HTML5, CSS3,Vue3, fabric.js |
+| Backend | Node.js, Express.js, NestJS, Prisma ORM |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| Data Science | Scikit-learn, Pandas, NumPy |
 
 ---
 
-### 🏆 Coding Milestones
+## 🏆 Coding Milestones
 
-I thrive on problem-solving and algorithmic challenges. With **1,000+ problems** solved across platforms, I focus on writing optimized, clean code.
+- LeetCode + GeeksforGeeks: 1,000+ problems solved
+- Certifications: Backend Development (PhysicsWallah), Machine Learning (Internshala)
 
 <p align="left">
   <a href="https://leetcode.com/u/sourav_tiwari07/">
@@ -30,36 +44,32 @@ I thrive on problem-solving and algorithmic challenges. With **1,000+ problems**
   </a>
 </p>
 
-- **LeetCode & GFG:** 1,000+ Problems Solved  
-- **GeeksforGeeks Profile:** [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
-- **Certifications:** Backend Development (PhysicsWallah), Machine Learning (Internshala)
+---
+
+## 📂 Featured Projects
+
+- [HireHub - Job Portal](https://github.com/sourav030/Hire-Hub): MERN-based portal with role-based access and Nodemailer integration
+- [E-commerce Platform](https://github.com/sourav030/Ecommerce): Full-featured platform with Stripe payments, Redis caching, and product management
+- [Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction): ML web tool for diabetes risk prediction from medical data
 
 ---
 
-### 📂 Featured Projects
-
-- **[HireHub – Job Portal](https://github.com/sourav030/Hire-Hub)**: MERN-based portal with role-based access and Nodemailer integration.
-- **[E-commerce Platform](https://github.com/sourav030/Ecommerce)**: Full-featured shop with Stripe payments, Redis caching, and product management.
-- **[Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction)**: ML tool predicting diabetes using medical data inputs.
-
----
-
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav030&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav030&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav030&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav030&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav030&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav030&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect With Me
 
-- **LinkedIn:** [Sourav Kumar Tiwari](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
-- **LeetCode:** [sourav_tiwari07](https://leetcode.com/u/sourav_tiwari07/)
-- **GeeksforGeeks:** [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
-- **Email:** souravtiwari139@gmail.com
+- LinkedIn: [Sourav Kumar Tiwari](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
+- LeetCode: [sourav_tiwari07](https://leetcode.com/u/sourav_tiwari07/)
+- GeeksforGeeks: [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
+- Email: souravtiwari139@gmail.com
