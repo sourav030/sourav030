@@ -257,7 +257,7 @@ Score: **88.9%**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav030&theme=tokyo-night&hide_border=true&radius=10&area=true" width="100%" alt="Activity Graph" />
+
 
 <br/>
 
