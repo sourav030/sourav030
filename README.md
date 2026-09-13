@@ -7,36 +7,56 @@
 <p>
   Full Stack Developer focused on building scalable web applications and practical ML-powered solutions.
   <br/>
-  Currently working as <strong>Full Stack Developer Intern at Foyr</strong>.
+  Currently working as <strong>Full Stack Developer Intern at Beet.health</strong>.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer Intern at Foyr
-- 🧠 Machine Learning enthusiast who enjoys turning data into useful products
-- 🛠️ Strong focus on scalable architecture, clean APIs, and user-first interfaces
-- 🧩 Solved 1,000+ coding problems across competitive programming platforms
+* 💼 Full Stack Developer Intern at Beet.health
+* 🧠 Machine Learning enthusiast who enjoys turning data into useful products
+* 🛠️ Strong focus on scalable architecture, clean APIs, and user-first interfaces
+* 🧩 Solved 1,000+ coding problems across competitive programming platforms
+
+---
+
+## 💼 Experience
+
+### 🏢 Full Stack Developer Intern — Beet.health
+
+**26 April 2026 – Present**
+
+* Working on full-stack web application development and scalable backend systems
+* Building and improving APIs, database integrations, and user-facing features
+* Contributing to production-focused software development and application architecture
+
+### 🏢 Full Stack Developer Intern — Foyr
+
+**1 April 2026 – 25 April 2026**
+
+* Worked on full-stack web application development
+* Contributed to frontend and backend features
+* Worked with modern web technologies and production-oriented development practices
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| Languages | C++, JavaScript, SQL, Python |
-| Frontend | React.js, Tailwind CSS, HTML5, CSS3,Vue3, fabric.js |
-| Backend | Node.js, Express.js, NestJS, Prisma ORM |
-| Databases | MongoDB, PostgreSQL, MySQL |
-| Data Science | Scikit-learn, Pandas, NumPy |
+| Category     | Skills                                                 |
+| :----------- | :----------------------------------------------------- |
+| Languages    | C++, JavaScript, SQL, Python                           |
+| Frontend     | React.js, Tailwind CSS, HTML5, CSS3, Vue.js, Fabric.js |
+| Backend      | Node.js, Express.js, NestJS, Prisma ORM                |
+| Databases    | MongoDB, PostgreSQL, MySQL                             |
+| Data Science | Scikit-learn, Pandas, NumPy                            |
 
 ---
 
 ## 🏆 Coding Milestones
 
-- LeetCode + GeeksforGeeks: 1,000+ problems solved
-- Certifications: Backend Development (PhysicsWallah), Machine Learning (Internshala)
+* LeetCode + GeeksforGeeks: 1,000+ problems solved
+* Certifications: Backend Development (PhysicsWallah), Machine Learning (Internshala)
 
 <p align="left">
   <a href="https://leetcode.com/u/sourav_tiwari07/">
@@ -48,9 +68,9 @@
 
 ## 📂 Featured Projects
 
-- [HireHub - Job Portal](https://github.com/sourav030/Hire-Hub): MERN-based portal with role-based access and Nodemailer integration
-- [E-commerce Platform](https://github.com/sourav030/Ecommerce): Full-featured platform with Stripe payments, Redis caching, and product management
-- [Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction): ML web tool for diabetes risk prediction from medical data
+* [HireHub - Job Portal](https://github.com/sourav030/Hire-Hub): MERN-based portal with role-based access and Nodemailer integration
+* [E-commerce Platform](https://github.com/sourav030/Ecommerce): Full-featured platform with Stripe payments, Redis caching, and product management
+* [Diabetes Prediction](https://github.com/sourav030/ml-diabetes-prediction): ML web tool for diabetes risk prediction from medical data
 
 ---
 
@@ -69,7 +89,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Sourav Kumar Tiwari](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
-- LeetCode: [sourav_tiwari07](https://leetcode.com/u/sourav_tiwari07/)
-- GeeksforGeeks: [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
-- Email: souravtiwari139@gmail.com
+* LinkedIn: [Sourav Kumar Tiwari](https://www.linkedin.com/in/sourav-kumar-tiwari-82762426b)
+* LeetCode: [sourav_tiwari07](https://leetcode.com/u/sourav_tiwari07/)
+* GeeksforGeeks: [souravti2b55](https://www.geeksforgeeks.org/profile/souravti2b55)
+* Email: [souravtiwari139@gmail.com](mailto:souravtiwari139@gmail.com)
